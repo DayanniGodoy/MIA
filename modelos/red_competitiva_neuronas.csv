@@ -1,0 +1,4 @@
+neurona,zona,tasa_quiebra_entrenamiento,riesgo_quiebra
+N1,Zona gris,0.013065937405044059,0
+N2,Zona segura,0.0,0
+N3,Zona de peligro,0.19124087591240876,1
